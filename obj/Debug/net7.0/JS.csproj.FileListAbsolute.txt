@@ -1,0 +1,15 @@
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\bin\Debug\net7.0\JS.exe
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\bin\Debug\net7.0\JS.deps.json
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\bin\Debug\net7.0\JS.runtimeconfig.json
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\bin\Debug\net7.0\JS.dll
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\bin\Debug\net7.0\JS.pdb
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.csproj.AssemblyReference.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.AssemblyInfoInputs.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.AssemblyInfo.cs
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.csproj.CoreCompileInputs.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.dll
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\refint\JS.dll
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.pdb
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\JS.genruntimeconfig.cache
+C:\Users\Ariston Cândido\Desktop\As paradas\JS\obj\Debug\net7.0\ref\JS.dll
