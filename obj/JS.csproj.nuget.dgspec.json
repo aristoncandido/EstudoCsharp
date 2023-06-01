@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\JS\\JS.csproj": {}
+    "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\EstudoC#\\JS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\JS\\JS.csproj": {
+    "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\EstudoC#\\JS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\JS\\JS.csproj",
+        "projectUniqueName": "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\EstudoC#\\JS.csproj",
         "projectName": "JS",
-        "projectPath": "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\JS\\JS.csproj",
+        "projectPath": "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\EstudoC#\\JS.csproj",
         "packagesPath": "C:\\Users\\Ariston Cândido\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\JS\\obj\\",
+        "outputPath": "C:\\Users\\Ariston Cândido\\Desktop\\As paradas\\EstudoC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ariston Cândido\\AppData\\Roaming\\NuGet\\NuGet.Config"
